@@ -1,0 +1,123 @@
+* {
+    font-family: sans-serif;
+    transition: all 1s ease-in ;
+    
+}
+
+body{
+    background: fixed;
+
+    display: flex;
+    justify-content: center;  
+    margin: 0px auto;
+    animation: slide 9.7s ease-in-out 1.4s infinite;
+    background-image: url(./wind/race-license-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+
+.reg {
+    padding-bottom: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    border: solid 1px red;
+    
+    padding-top: 10px; 
+    background-color: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1));
+    background: rgba(58, 52, 52, 0.25);
+    backdrop-filter: blur( 17px );
+    -webkit-backdrop-filter: blur( 17px );
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    
+}
+
+form {
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    width: 95%;
+    gap: 0.8rem;
+    border-top:solid 1px #99000e;
+
+}
+
+.text {
+    color: #ffff;
+}
+
+.e {
+    font-size: 25px;
+    font-weight: bolder;
+    color: #ffff;
+}
+.hr {
+    color: black;
+    width: 100%;
+ }
+.email {
+    width: 99%;
+    outline: none;
+    height: 10vh;
+    border-radius: 5px;
+    background-color: transparent;
+    border-bottom: solid #38383f;
+    color: white;
+    font-size: 18px;
+}
+
+
+.pass {
+    border-radius: 5px;
+    width: 99%;
+    outline: none;
+    height: 10vh;
+    border-radius: 5px;
+    background-color: transparent;
+    border-bottom: solid #38383f;
+    color: white;
+    font-size: 18px; 
+
+}
+
+
+.si {
+    width: fit-content;
+ align-self: center;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ gap: 1rem;
+}
+
+.btnreg {
+    width: 100vh;
+    height: 8vh;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+    background-color: #6b6768;
+    color: #e4e3e1;
+}
+.up {
+    width: 100vh;
+    height: 8vh;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #6b6768;
+
+}
+
+.link {
+    text-decoration: none;
+    color: #e4e3e1;
+
+}

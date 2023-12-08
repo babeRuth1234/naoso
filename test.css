@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.content {
+    height: 100vh;
+    width: 100%;
+    background-image: url(./wind/original-5fe6648f849fcdd3e573bdd95b425c65.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 5s;
+
+    animation-name: animate;
+    animation-duration: alternate-reverse;
+    animation-play-state: running;
+    animation-timing-function: ease-in-out;
+    animation-duration: 30s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animate {
+    0%{
+        background-image: url(./wind/592296_-GiftCardUpdates201907_112219.png);
+    }
+    20%{
+        background-image: url(./wind/original-5fe6648f849fcdd3e573bdd95b425c65.webp);
+    }
+    40%{
+        background-image: url(./wind/race-license-banner.jpg);
+    }
+    60%{
+        background-image: url(./wind/Screenshot\ 2023-02-17\ 122125.jpg);
+    }
+    70%{
+        background-image: url(./wind/Screenshot\ 2023-02-17\ 122409.jpg);
+    }
+    80%{
+        background-image: url(./wind/Screenshot\ 2023-02-17\ 122534.jpg);
+    }
+    100%{
+        background-image: url(./g168-dl-formula-1-season-2022-racing-car.jpg);
+    }
+}

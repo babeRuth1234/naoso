@@ -1,0 +1,81 @@
+
+.fadein1 {
+    width: 100%;
+    /* border: solid 3px purple; */
+    height: 60%;
+    background-image: url(./wind/Lewis-Hamilton-Mercedes-GP-Oesterreich-Spielberg-Qualifying-8-7-2022-169FullWidth-bbce158d-1915352.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 5s;
+}
+
+.qaulity {
+    height: max-content;
+    width: 100%;
+    /* border: solid 1px red; */
+    display: flex;
+    gap: 2rem;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.tune {
+    width: 100%;
+    gap: 1rem;
+
+}
+
+.b {
+    width: 16%;
+}
+
+.pre{
+    background-image: url(./g168-dl-formula-1-season-2022-racing-car.jpg);
+    background-position: center;
+    background-size: contain;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+
+.go{
+    background-image: url(./wind/skysports-max-verstappen-red_5682998.jpg);
+    background-position: center;
+    background-size: contain; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.sil {
+    background-image: url(./wind/formula-1-dutch-gp-2022-lance--2.jpg);
+    background-position: center;
+    background-size: contain;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.bro{
+    background-image: url(./wind/2022-Filming-Day-Spain-11.jpg);
+    background-position: center;
+    background-size: contain;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.co {
+    background-image: url(./wind/thumb2-alexander-albon-4k-raceway-williams-mercedes-fw44-2022-f1-cars.jpg);
+    background-position: center;
+    background-size: contain;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.fed:hover {
+    /* transform: translateY(10px); */
+    background-color: #868686;
+}

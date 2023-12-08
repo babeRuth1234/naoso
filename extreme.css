@@ -1,0 +1,85 @@
+
+
+.fadein1 {
+    width: 100%;
+    /* border: solid 3px purple; */
+    height: 60%;
+    background-image: url(./wind/sales/90-extreme-e-2022-season-preview-mud.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 5s;
+}
+
+
+.pre{
+    background-image: url(./wind/sales/99-extreme-e-2022-season-preview-lead.webp);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+}
+
+
+.go{
+    background-image: url(./wind/sales/cupra-extreme-e-desert.jpg);
+    background-position: center;
+    background-size: cover;
+ 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.sil {
+    background-image: url(./wind/sales/cupra-x-extreme-e.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.bro{
+    background-image: url(./wind/sales/jutta-kleinschmidt-mattias-eks.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.co {
+    background-image: url(./wind/180222_ExtremeE_HP.webp);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.anot {
+    margin-top: 3.5%;
+    width: 97%;
+    border-radius: 10px;
+    height: 50vh;
+    /* border: red 1px solid; */
+    display: flex;
+    background: linear-gradient( to left,transparent 0%,black 100%),url(./wind/o-05-a_desktop_extreme-e_1920x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    margin-bottom: 5%;
+}

@@ -1,0 +1,85 @@
+
+
+.fadein1 {
+    width: 100%;
+    /* border: solid 3px purple; */
+    height: 60%;
+    background-image: url(./wind/sales/2018_NEWS_Main_NASCAR_Hockenheim.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 5s;
+}
+
+
+.pre{
+    background-image: url(./wind/sales/2022_NEWS_H_NASCAR_Champ_a.jpg);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+}
+
+
+.go{
+    background-image: url(./wind/sales/2022_NEWS_Main_NASCAR_Champ.jpg);
+    background-position: center;
+    background-size: cover;
+ 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.sil {
+    background-image: url(./wind/sales/Rookies-1-960x510.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.bro{
+    background-image: url(./wind/sales/generic-1-960x510.jpeg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.co {
+    background-image: url(./wind/GettyImages-1389388891-e1660232074916.webp);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.anot {
+    margin-top: 3.5%;
+    width: 97%;
+    border-radius: 10px;
+    height: 50vh;
+    /* border: red 1px solid; */
+    display: flex;
+    background: linear-gradient( to left,transparent 0%,black 100%),url(./wind/next-1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    margin-bottom: 5%;
+}

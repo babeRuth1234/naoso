@@ -1,0 +1,85 @@
+
+
+.fadein1 {
+    width: 100%;
+    /* border: solid 3px purple; */
+    height: 60%;
+    background-image: url(./wind/64257295a70b202b8824043d7adfe76a--wallpapers-php.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: 5s;
+}
+
+
+.pre{
+    background-image: url(./wind/MotoGP_Hero_1920x800.jpg);
+    background-position: center;
+    background-size: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+}
+
+
+.go{
+    background-image: url(./wind/sales/MotoGP-Previa-Australia.jpg.webp);
+    background-position: center;
+    background-size: cover;
+ 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.sil {
+    background-image: url(./wind/sales/MotoGP_Hero_1920x800.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.bro{
+    background-image: url(./wind/sales/MotoGP_Red_Bull_Ring_2022-scaled.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.co {
+    background-image: url(./wind/sales/aleix-espargaro-aprilia-racing.jpg);
+    background-position: center;
+    background-size: cover;
+
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-repeat: no-repeat;
+
+
+}
+
+.anot {
+    margin-top: 3.5%;
+    width: 97%;
+    border-radius: 10px;
+    height: 50vh;
+    /* border: red 1px solid; */
+    display: flex;
+    background: linear-gradient( to left,transparent 0%,black 100%),url(./wind/sales/);;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    margin-bottom: 5%;
+}
